@@ -10,7 +10,7 @@
         <div
           class="row no-gutters slider-text justify-content-start align-items-center justify-content-center"
         >
-          <div class="col-lg-8 ftco-animate">
+          <div class="col-lg-8 ">
             <div class="text w-100 text-center mb-md-5 pb-md-5">
               <h1 class="mb-4">Inovasi &amp; Solusi Mudah <br/> Service Elektronik</h1>
               <p
@@ -39,7 +39,7 @@
           <div class="col-md-12 featured-top">
             <div class="row no-gutters">
               <div class="col-md-4 d-flex align-items-center">
-                <form action="#" class="request-form ftco-animate bg-primary">
+                <form action="#" class="request-form  bg-primary">
                   <h2>Request Perbaikan</h2>
                   <div class="form-group">
                     <label for class="label">Kota</label>
@@ -82,7 +82,7 @@
                 <div class="services-wrap rounded-right w-100">
                   <h3 class="heading-section mb-4">Servis Menjadi Lebih Mudah Dan Praktis</h3>
                   <div class="row d-flex mb-4">
-                    <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+                    <div class="col-md-4 d-flex align-self-stretch ">
                       <div class="services w-100 text-center">
                         <div class="icon d-flex align-items-center justify-content-center">
                           <span class="flaticon-route"></span>
@@ -92,7 +92,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+                    <div class="col-md-4 d-flex align-self-stretch ">
                       <div class="services w-100 text-center">
                         <div class="icon d-flex align-items-center justify-content-center">
                           <span class="flaticon-handshake"></span>
@@ -102,7 +102,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-md-4 d-flex align-self-stretch ftco-animate">
+                    <div class="col-md-4 d-flex align-self-stretch ">
                       <div class="services w-100 text-center">
                         <div class="icon d-flex align-items-center justify-content-center">
                           <span class="flaticon-rent"></span>
@@ -127,7 +127,7 @@
     <section class="ftco-section ftco-no-pt bg-light">
       <div class="container">
         <div class="row justify-content-center">
-          <div class="col-md-12 heading-section text-center ftco-animate mb-5">
+          <div class="col-md-12 heading-section text-center  mb-5">
             <span class="subheading">Lihat Juga</span>
             <h2 class="mb-2">Tempat Service Terbaik</h2>
           </div>
@@ -136,7 +136,7 @@
           <div class="col-md-12">
             <div class="carousel-car owl-carousel">
               <div class="item">
-                <div class="car-wrap rounded ftco-animate">
+                <div class="car-wrap rounded ">
                   <div
                     class="img rounded d-flex align-items-end"
                     style="background-image: url(images/car-1.jpg);"
@@ -160,7 +160,7 @@
                 </div>
               </div>
               <div class="item">
-                <div class="car-wrap rounded ftco-animate">
+                <div class="car-wrap rounded ">
                   <div
                     class="img rounded d-flex align-items-end"
                     style="background-image: url(images/car-2.jpg);"
@@ -184,7 +184,7 @@
                 </div>
               </div>
               <div class="item">
-                <div class="car-wrap rounded ftco-animate">
+                <div class="car-wrap rounded ">
                   <div
                     class="img rounded d-flex align-items-end"
                     style="background-image: url(images/car-3.jpg);"
@@ -208,7 +208,7 @@
                 </div>
               </div>
               <div class="item">
-                <div class="car-wrap rounded ftco-animate">
+                <div class="car-wrap rounded ">
                   <div
                     class="img rounded d-flex align-items-end"
                     style="background-image: url(images/car-4.jpg);"
@@ -244,7 +244,7 @@
             class="col-md-6 p-md-5 img img-2 d-flex justify-content-center align-items-center"
             style="background-image: url(images/about.jpg);"
           ></div>
-          <div class="col-md-6 wrap-about ftco-animate">
+          <div class="col-md-6 wrap-about ">
             <div class="heading-section heading-section-white pl-md-5">
               <span class="subheading">About us</span>
               <h2 class="mb-4">Welcome to Carbook</h2>
@@ -263,7 +263,7 @@
     <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center mb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
+          <div class="col-md-7 text-center heading-section ">
             <span class="subheading">Services</span>
             <h2 class="mb-3">Our Latest Services</h2>
           </div>
@@ -321,7 +321,7 @@
       <div class="overlay"></div>
       <div class="container">
         <div class="row justify-content-end">
-          <div class="col-md-6 heading-section heading-section-white ftco-animate">
+          <div class="col-md-6 heading-section heading-section-white ">
             <h2 class="mb-3">Do You Want To Earn With Us? So Don't Be Late.</h2>
             <a href="#" class="btn btn-primary btn-lg">Become A Driver</a>
           </div>
@@ -332,12 +332,12 @@
     <section class="ftco-section testimony-section bg-light">
       <div class="container">
         <div class="row justify-content-center mb-5">
-          <div class="col-md-7 text-center heading-section ftco-animate">
+          <div class="col-md-7 text-center heading-section ">
             <span class="subheading">Testimonial</span>
             <h2 class="mb-3">Happy Clients</h2>
           </div>
         </div>
-        <div class="row ftco-animate">
+        <div class="row ">
           <div class="col-md-12">
             <div class="carousel-testimony owl-carousel ftco-owl">
               <div class="item">
@@ -409,13 +409,13 @@
     <section class="ftco-section">
       <div class="container">
         <div class="row justify-content-center mb-5">
-          <div class="col-md-7 heading-section text-center ftco-animate">
+          <div class="col-md-7 heading-section text-center ">
             <span class="subheading">Blog</span>
             <h2>Recent Blog</h2>
           </div>
         </div>
         <div class="row d-flex">
-          <div class="col-md-4 d-flex ftco-animate">
+          <div class="col-md-4 d-flex ">
             <div class="blog-entry justify-content-end">
               <a
                 href="blog-single.html"
@@ -445,7 +445,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4 d-flex ftco-animate">
+          <div class="col-md-4 d-flex ">
             <div class="blog-entry justify-content-end">
               <a
                 href="blog-single.html"
@@ -475,7 +475,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-4 d-flex ftco-animate">
+          <div class="col-md-4 d-flex ">
             <div class="blog-entry">
               <a
                 href="blog-single.html"
@@ -513,7 +513,7 @@
       <div class="overlay"></div>
       <div class="container">
         <div class="row">
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
+          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ">
             <div class="block-18">
               <div class="text text-border d-flex align-items-center">
                 <strong class="number" data-number="60">0</strong>
@@ -524,7 +524,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
+          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ">
             <div class="block-18">
               <div class="text text-border d-flex align-items-center">
                 <strong class="number" data-number="1090">0</strong>
@@ -535,7 +535,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
+          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ">
             <div class="block-18">
               <div class="text text-border d-flex align-items-center">
                 <strong class="number" data-number="2590">0</strong>
@@ -546,7 +546,7 @@
               </div>
             </div>
           </div>
-          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ftco-animate">
+          <div class="col-md-6 col-lg-3 justify-content-center counter-wrap ">
             <div class="block-18">
               <div class="text d-flex align-items-center">
                 <strong class="number" data-number="67">0</strong>

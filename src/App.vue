@@ -5,3 +5,12 @@
     <router-view name="footer"/>
   </div>
 </template>
+<script>
+export default {
+  data(){
+    return{
+      status_login: '',
+    }
+  }
+}
+</script>
