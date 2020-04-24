@@ -26,19 +26,19 @@
             <router-link to="/" class="nav-link">Home</router-link>
           </li>
           <li class="nav-item">
-            <a href="#/" class="nav-link">About</a>
+            <!-- <a href="#/" class="nav-link">About</a> -->
           </li>
           <li class="nav-item">
             <router-link to="/service" class="nav-link">Service</router-link>
           </li>
           <li class="nav-item">
-            <a href="#/" class="nav-link">Pricing</a>
+            <!-- <a href="#/" class="nav-link">Pricing</a> -->
           </li>
           <li class="nav-item">
-            <a href="#/" class="nav-link">Cars</a>
+            <!-- <a href="#/" class="nav-link">Cars</a> -->
           </li>
           <li class="nav-item">
-            <a href="#/" class="nav-link">Blog</a>
+            <!-- <a href="#/" class="nav-link">Blog</a> -->
           </li>
           <li v-if="isLoggedIn===0" class="nav-item">
             <router-link to="/login" class="nav-link">Login / Register</router-link>
