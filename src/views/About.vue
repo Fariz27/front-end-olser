@@ -1,5 +1,22 @@
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <div>
+    <TravelMap class="travel-map"/>
+  </div>  
 </template>
+<script>
+import TravelMap from "../components/TravelMap";
+
+export default {
+  name: "App",
+  components: {
+    TravelMap
+  }
+};
+</script>
+
+<style lang="scss" scoped>
+.travel-map {
+  height: 700px;
+}
+</style>
+

@@ -7,11 +7,18 @@ import Home from '../views/Home.vue'
 import Login from '../views/Login.vue'
 import Signup from '../views/Signup.vue'
 import Service from '../views/Service.vue'
+import About from '../views/About.vue'
+
 
 
 Vue.use(VueRouter)
 
 const routes = [
+  {
+    path: '/about',
+    name: 'about',
+    components: {default: About}
+  },
   {
     path: '/',
     name: 'home',
