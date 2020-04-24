@@ -53,8 +53,7 @@
                     </p>
                   </div>
                   <p class="d-flex mb-0 d-block">
-                    <a href="#" class="btn btn-primary py-2 mr-1">Book now</a>
-                    <a href="car-single.html" class="btn btn-secondary py-2 ml-1">Details</a>
+                    <router-link :to="'/service/'+item.id" class="btn btn-secondary py-2 ml-1">Details</router-link>
                   </p>
                 </div>
               </div>

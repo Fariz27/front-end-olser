@@ -1,4 +1,4 @@
-<template>
+<template class="lbody">
   <div class="container">
     <div class="row">
       <div class="col-md-5 mx-auto">
@@ -261,7 +261,7 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
-body {
+.lbody {
   padding-top: 4.2rem;
   padding-bottom: 4.2rem;
   background: rgba(0, 0, 0, 0.76);
@@ -334,7 +334,7 @@ form .error {
 }
 </style>
 <style>
-body {
+.lbody {
   background-color: #08aeea;
   background-image: linear-gradient(270deg, #08aeea 0%, #2af598 100%);
 }

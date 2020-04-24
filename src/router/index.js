@@ -7,7 +7,10 @@ import Home from '../views/Home.vue'
 import Login from '../views/Login.vue'
 import Signup from '../views/Signup.vue'
 import Service from '../views/Service.vue'
+import DetailService from '../views/DetailService.vue'
+import Detail from '../views/Detail.vue'
 import About from '../views/About.vue'
+
 
 
 
@@ -38,6 +41,18 @@ const routes = [
     path: '/service',
     name: 'service',
     components: {default: Service, header: Navbar, footer: Footer}
+  },
+  // {
+  //   path: '/service/:id',
+  //   name: 'service1',
+  //   components: {default: DetailService, header: Navbar, footer: Footer},
+  //   props: { default: true, header: false }
+  // },
+  {
+    path: '/service/:id',
+    name: 'serivcedetail',
+    components: { default: DetailService, header: Navbar },
+    props: { default: true, header: false }
   },
 ]
 
