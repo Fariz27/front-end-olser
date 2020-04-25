@@ -1,4 +1,5 @@
-<template class="lbody">
+<template class="lbody full-height">
+<div class="lbody full-height"  style="overflow: auto">
   <div class="container">
     <div class="row">
       <div class="col-md-5 mx-auto">
@@ -179,6 +180,8 @@
       </div>
     </div>
   </div>
+
+</div>
 </template>
 
 
@@ -261,11 +264,6 @@ input::-webkit-inner-spin-button {
   -webkit-appearance: none;
   margin: 0;
 }
-.lbody {
-  padding-top: 4.2rem;
-  padding-bottom: 4.2rem;
-  background: rgba(0, 0, 0, 0.76);
-}
 a {
   text-decoration: none !important;
 }
@@ -334,6 +332,13 @@ form .error {
 }
 </style>
 <style>
+html, body {
+  height: 100%;
+}
+
+.full-height {
+  height: 100vh;
+}
 .lbody {
   background-color: #08aeea;
   background-image: linear-gradient(270deg, #08aeea 0%, #2af598 100%);
